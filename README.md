@@ -37,7 +37,7 @@ This site summarizes our research process and key findings through visual storyt
 - Structured in fixed-width format with CDC SAS codebook
 - Focused fields: `age`, `sex`, `Q80` (social media), `Q85` (sleep), `Q26` (mental suffering)
 
-### 2. Kaggle: Mental Health Analysis Among Teenagers – 2025 (Synthetic)
+### 2. Kaggle: Mental Health Analysis Among Teenagers
 - 5,000 records on stress, exercise, social media, and academic life
 - Focused fields: `social_media_hours`, `sleep_hours`, `exercise_hours`, `survey_stress_score`
 
